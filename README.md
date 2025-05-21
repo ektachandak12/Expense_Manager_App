@@ -59,7 +59,8 @@ static final String PASS = "your_password";
 
 ## 🖼️ UI Preview
 
-*Add a screenshot of the application window here (optional)*
+![image](https://github.com/user-attachments/assets/bed25167-a717-43ba-9cd7-29d1d1f809df)
+
 
 ## ✅ Future Improvements
 
@@ -71,3 +72,6 @@ static final String PASS = "your_password";
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+✉️ Contact
+For feedback or suggestions, please contact: ektachandak.edu@gmail.com
